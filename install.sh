@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VERSION="1.0.3"
-DOWNLOAD_HOST="https://github.com/panbo248/DFC/blob/main/linux/"
+DOWNLOAD_HOST="https://github.com/panbo248/DFC/raw/main/linux/"
 ORIGIN_EXEC="dfc-${VERSION}"
 
 SERVICE_NAME="dfcservice"
