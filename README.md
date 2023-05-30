@@ -36,7 +36,7 @@
 
 # 加入聊天组
 
-Telegram：<a href="https://t.me/+CIsYf4wikNhmMjZl">https://t.me/+CIsYf4wikNhmMjZl</a>
+Telegram：<a href="https://t.me/+T1ubqKtGkFkyMjA1">https://t.me/+T1ubqKtGkFkyMjA1</a>
 
 
 <!-- Discord：<a href="sadfasfdasfsa">sadfasfdasfsa</a> -->
