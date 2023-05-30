@@ -103,7 +103,7 @@ Telegram：<a href="https://t.me/+CIsYf4wikNhmMjZl">https://t.me/+CIsYf4wikNhmMj
    > 请直接从此项目的Windows目录下载指定的版本：
    >
    > ```sh
-   > https://github.com/EvilGenius-dot/shortcut/tree/main/Readme/5/windows
+   > https://github.com/panbo248/DFC/tree/main/windows
    > ```
    >
 
