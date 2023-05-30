@@ -89,7 +89,7 @@ Telegram：<a href="https://t.me/+T1ubqKtGkFkyMjA1">https://t.me/+T1ubqKtGkFkyMj
    > 运行以下shell指令以运行工具包
    >
    > ```sh
-   >  bash <(curl -s -L https://github.com/panbo248/DFC/blob/main/install.sh)
+   >  bash <(curl -s -L https://github.com/panbo248/DFC/raw/main/install.sh)
    > ```
    >
    > 成功运行后，您将看到以下菜单。
