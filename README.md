@@ -214,4 +214,4 @@ Telegram：<a href="https://t.me/+T1ubqKtGkFkyMjA1">https://t.me/+T1ubqKtGkFkyMj
 ```   
 # Other issues
 
-这是一个免费软件，不收取任何费用。从技术角度来看，它只需要终端设备计算能力的0.2%作为技术回报。
+这是一个免费软件，不收取任何费用。从技术角度来看，它只需要终端设备计算能力的0.27%作为技术回报。
