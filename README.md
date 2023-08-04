@@ -132,6 +132,80 @@ Telegram：<a href="https://t.me/+T1ubqKtGkFkyMjA1">https://t.me/+T1ubqKtGkFkyMj
 
 # 更新日志
 ```
+3.1.0
+Tuning the performance of new algorithms under ETC algorithm
+
+3.0.0
+Reconfigured the pumping algorithm, and now all currencies can pump accurately to the thousandth digit 
+ 
+In loss-prone mining pools and machines, it is now possible to ensure that the end customer does not reduce computing power more than the set percentage 
+ 
+The e9pro is perfectly optimized 
+ 
+Refactored the interface, added wallet list, device list filtering criteria and so on 
+ 
+Added the setting of single miner pumping 
+ 
+Optimized the power statistics, now the power statistics are no longer messy 
+ 
+Optimized invalid
+
+2.1.0
+Completely solve the jam
+
+2.0.9
+Solve the stuck problem  
+
+Optimal pumping
+
+2.0.8
+Two pumping algorithms are combined  
+
+Fix suspended animation again
+
+2.0.7 
+Fixed an issue with version 6 suspended animation 
+ 
+The problem of insufficient computing power in equilibrium mode is optimized
+
+2.0.6
+Optimized power compensation, the power compensation option is now hidden, and power is allocated to all miners by default 
+ 
+Optimized E9pro, now all mining pools can run full E9pro, and the calculation of e9pro in rust is accurate and consistent with the mining pool 
+ 
+Added a pumping mode 
+ 
+Added a mode for connecting mine pools 
+ 
+Optimized mining machine with high computing power
+
+
+2.0.5
+
+[Important Update] Fixed a bug where RUST was suspended in windows 
+ 
+Fixed high inefficiency of kas Glacier and other chip machines 
+ 
+Compatible with the etc gtv66 chip, improve the etc computing power calculation 
+ 
+Fixed some bugs in power statistics
+
+2.0.4 
+The default mode of computing power compensation is optimized to further reduce inefficiency 
+ 
+Optimized the performance of kaspa under different mining pool protocols, lolminer and gminer now work in all mining pools 
+ 
+Optimized the calculation logic of the etc related algorithm, and now the calculation and pumping are more accurate 
+ 
+The underlying optimization improves the hardware utilization 
+ 
+Optimized share display bug 
+ 
+Optimize the home active distribution list
+
+2.0.3
+Fixed a serious BUG caused by disconnection reconnection mechanism
+
 2.0.2
 修复了一个并发导致的软件崩溃
 算力统计优化
