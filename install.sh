@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="3.2.3"
+VERSION="3.2.4"
 DOWNLOAD_HOST="https://github.com/panbo248/DFC/raw/main/linux/"
 ORIGIN_EXEC="dfc-${VERSION}"
 
