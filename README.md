@@ -92,6 +92,8 @@ Telegram：<a href="https://t.me/+T1ubqKtGkFkyMjA1">https://t.me/+T1ubqKtGkFkyMj
 
 1. **Install**
 
+   默认后台账号密码为 qzpm19kkx xloqslz913
+
    选择适合您的操作系统
 
    <details open>
